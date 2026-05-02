@@ -27,6 +27,7 @@ I am focused on developing practical AI and computer vision projects using Pytho
 - Matplotlib
 - Scikit-learn
 - OpenCV
+- MATLAB/Octave
 
 ### Development Tools
 - Git
